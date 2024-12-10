@@ -1,4 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Virtual Interview Simulator
+
+Virtual Mock Interview Simulator provides a hands-on platform to simulate real interview scenarios, helping candidates prepare for technical and behavioral interviews.
+
+## Why This Project?
+
+Interviews are a crucial part of recruitment, but they can be intimidating. Here are some statistics that highlight the importance of preparation:
+
+- **67%** of recruiters consider confidence levels a critical factor in candidate selection, and **39%** of candidates are rejected due to a lack of confidence.
+- Maintaining **eye contact** creates a strong impression.
+- **92%** of job seekers find mock interviews essential for interview preparation.
+
+Our platform addresses these challenges by offering an interactive, AI-driven simulation experience.
+
+## Features
+
+- **Real-Time Simulations**: Replicates realistic interview scenarios using advanced AI.
+- **Dynamic Question Generation**: Generates job-specific questions tailored to the candidate's input (e.g., role, skills, and industry).
+- **Voice-Based Interaction**: AI conducts mock interviews, and candidates respond in real time using voice input.
+- **Comprehensive Feedback**: Identifies strengths and areas for improvement to enhance interview performance.
+- **Advanced Tracking**: Features like face recognition, eye blink detection, and hand gesture tracking for better user insights.
+
+## Technologies Used
+
+- **Frontend**: [Next.js](https://nextjs.org) for a modern, scalable interface.
+- **Backend**: [FastAPI](https://fastapi.tiangolo.com) and PostgreSQL for robust data management.
+- **AI/ML**: TensorFlow, Keras, and OpenCV for interactive features.
+- **Speech-to-Text**: Enables real-time voice response processing.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org)
+- A package manager like `npm`, `yarn`, `pnpm`, or `bun`
+- [Python](https://www.python.org) for backend setup
+- [PostgreSQL](https://www.postgresql.org) for the database
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tpstark137/Virtual-Interview-Simulator.git
+   cd Virtual-Interview-Simulator
+   ```
 
 ## Getting Started
 
