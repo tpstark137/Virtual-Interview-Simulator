@@ -1,7 +1,7 @@
-opencv-python-headless
-plotly
-mediapipe
-av
-joblib
-xgboost
-moviepy
+# opencv-python-headless
+# plotly
+# mediapipe
+# av
+# joblib
+# xgboost
+# moviepy
