@@ -2,6 +2,12 @@
 
 Virtual Mock Interview Simulator provides a hands-on platform to simulate real interview scenarios, helping candidates prepare for technical and behavioral interviews.
 
+## 📸 Project Demonstration
+
+![Live Website](demo/Screenshot%202024-12-08%20155836.jpg)
+
+![Live Website](demo/Screenshot%202024-12-08%20160045.jpg)
+
 ## Why This Project?
 
 Interviews are a crucial part of recruitment, but they can be intimidating. Here are some statistics that highlight the importance of preparation:
@@ -23,8 +29,7 @@ Our platform addresses these challenges by offering an interactive, AI-driven si
 ## Technologies Used
 
 - **Frontend**: [Next.js](https://nextjs.org) for a modern, scalable interface.
-- **Backend**: [FastAPI](https://fastapi.tiangolo.com) and PostgreSQL for robust data management.
-- **AI/ML**: TensorFlow, Keras, and OpenCV for interactive features.
+- **AI/ML**: Mediapipe, OpenCV for interactive features.
 - **Speech-to-Text**: Enables real-time voice response processing.
 
 ## Getting Started
