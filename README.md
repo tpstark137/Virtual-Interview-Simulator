@@ -4,8 +4,6 @@ Virtual Mock Interview Simulator provides a hands-on platform to simulate real i
 
 ## 📸 Project Demonstration
 
-![Live Website](demo/Screenshot%202024-12-08%20155836.jpg)
-
 ![Live Website](demo/ai_non_verbal_demo.gif)
 
 ## Why This Project?
